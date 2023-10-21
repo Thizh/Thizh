@@ -1,3 +1,5 @@
+<img src="./line.gif" width="100%" />
+
 <img src="./header.jpg" />
 
 ### 🧰 Languages and Tools
