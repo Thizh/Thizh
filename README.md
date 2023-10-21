@@ -1,4 +1,4 @@
-<img src="./line.gif" width="100%" />
+<img src="./line.gif" width="50%"/>
 
 <img src="./header.jpg" />
 
