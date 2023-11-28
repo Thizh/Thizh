@@ -4,7 +4,8 @@
 
 <img src="./header.gif" />
 
-<div align="left">
+<br>
+<div align="center">
 <img alt="Python" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="PHP" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
@@ -27,8 +28,9 @@
 <img alt="Vim" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="wordpress" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
+<br>
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=gotham&hide_border=true" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
 </div>
