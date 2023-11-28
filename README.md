@@ -34,3 +34,14 @@
 <img align="left" alt="wordpress" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 <br /><br />
+
+<table>
+  <tr>
+    <td>
+      <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=merko&hide_border=true" alt="Thizh" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" alt="Thizh" /> 
+    </td>
+  </tr>
+</table>
