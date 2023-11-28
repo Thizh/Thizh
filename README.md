@@ -38,10 +38,10 @@
 <table border>
   <tr>
     <td>
-      <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=merko&hide_border=true" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=gotham&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=merko&hide_border=true" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" /> 
     </td>
   </tr>
 </table>
