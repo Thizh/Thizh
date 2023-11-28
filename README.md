@@ -31,6 +31,7 @@
 <img align="left" alt="wordpress" width="30px" style="padding-right:10px; padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 <br /><br />
 
-|<img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=gotham&hide_border=true" />|
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />|
-
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Thizh&show_icons=true&locale=en&theme=gotham&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thizh&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
+</div>
